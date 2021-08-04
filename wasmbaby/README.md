@@ -1,4 +1,4 @@
-# Wasmbaby (Beginner)
+# UIUCTF 2021 - Wasmbaby (Beginner) Writeup
 * Type - Web
 * Name - Wasmbaby
 * Points - 50

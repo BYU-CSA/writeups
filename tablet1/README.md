@@ -1,4 +1,4 @@
-# Tablet 1
+# UIUCTF 2021 - Tablet 1 Writeup
 * Type - Forensics
 * Name - Tablet 1
 * Points - 103
