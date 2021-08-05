@@ -18,7 +18,7 @@
 
 We are given a website, of which we can see the frontend. Very simple. The prompt gives us a pwny, asks us to give it a costume without overdoing it, and tells us to sneak it past the bouncer.
 
-We also have a picture of a pwny (example shown below), and a file upload. We're given a status bar below that, and links to a machine-learning model adn the backend source code.
+We also have a picture of a pwny (example shown below), and a file upload. We're given a status bar below that, and links to a machine-learning model and the backend source code.
 
 ### Review of the Source Code
 
