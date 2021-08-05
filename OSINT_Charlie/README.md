@@ -28,7 +28,7 @@ So as the above image shows, "charlie chaplin coding" brings up a solitary accou
 
 <img src="twitter-hint1.JPG" width="600px">
 
-<img src="twitter-hint3.JPG" width="600px">
+<img src="twitter-hint2.JPG" width="600px">
 
 Now once we open that we are rewarded with a flag right away. Not too bad, but definitely a good place to hide a flag! A common trend among these challenges is that they show off side features of platforms that require a step or two to discover. 
 
