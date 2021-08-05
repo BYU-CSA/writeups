@@ -7,5 +7,7 @@ This repository contains all of the writeups for the [UIUCTF competition in July
 * [wasmbaby](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/wasmbaby) - 50 points
 
 **Forensics:**
-
 * [Tablet 1](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/tablet1) - 103 points
+
+**Jail:**
+* [PHPFudge](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/phpfudge) - 50 points
