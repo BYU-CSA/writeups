@@ -28,4 +28,4 @@ This repository contains all of the writeups for the [UIUCTF competition in July
 
 ### osint
 
-* [OSINT](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/OSINT_Charlie) - all 8 challenges
+* [OSINT](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/OSINT_Charlie) - all 8 Chaplin PR Nightmare challenges
