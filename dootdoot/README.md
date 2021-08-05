@@ -15,5 +15,7 @@ When you go to the link, one of the comments says `the flag is in the yellow tex
 
 <img src="image.png" width="800px">
 
+**Flag:** `uiuctf{doot_d0ot_do0t_arent_you_tired_of_the_int4rnet?}`
+
 ## Real-World Application
 I think the biggest real-world application for this is that sometimes, nothing beats just grinding. I could've found a way to integrate OCR into it and automate the process, but it honestly was much quicker watching the video and skipping every 5 seconds.
