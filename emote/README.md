@@ -5,7 +5,9 @@
 
 ## Description
 ```
-recently i've been converting strings into images for funsies and staring at them. anytime time to go share those images with my friends in discord! warning: staring at noise in visual form may or may not introduce you to the abyss
+recently i've been converting strings into images for funsies and staring at them. anytime 
+time to go share those images with my friends in discord! warning: staring at noise in visual 
+form may or may not introduce you to the abyss
 
 author: ian5v
 ```
@@ -19,7 +21,7 @@ If you right click on the image, you can save it. When you open it up, you'll se
 
 <img src="emote.png" width="600px">
 
-As I kept studying it, I realized that the image was split vertically into two even halves, and each half had one black, vertical strip, followed by a white, vertical strip. I suddenly remembered that ASCII characters usually start with `01`, and realized it was probably just a picture of binary characters, two-wide. So each vertical row contains two ASCII characters encoded in binary!
+As I kept studying it, I realized that the image was split vertically into two even halves, and each half had one black, vertical strip, followed by a white, vertical strip. I suddenly remembered that ASCII characters usually start with `01`, and realized it was probably just a picture of binary characters, two-wide. So each row contains two ASCII characters encoded in binary!
 
 <img src="emote_separated.png" width="600px">
 

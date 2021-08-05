@@ -7,7 +7,8 @@
 ```
 Red has been acting very sus lately... so I took a backup of their tablet to see if they are hiding something!
 
-It looks like Red has been exfiltrating sensitive data bound for Mira HQ to their own private server. We need to access that server and contain the leak.
+It looks like Red has been exfiltrating sensitive data bound for Mira HQ to their own private server. We need 
+to access that server and contain the leak.
 
 NOTE: Both Tablet challenges use the same tablet.tar.gz file.
 
