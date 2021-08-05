@@ -23,7 +23,7 @@ This repository contains all of the writeups for the [UIUCTF competition in July
 
 * [Doot Doot](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/dootdoot) - 50 points
 * [Emote](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/emote) - 50 points
-* [pwnies_please](#) - 390 points
+* [pwnies_please](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/pwnies_please) - 390 points
 * [Constructive Criticism](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/Constructive%20Criticism) - 408 points
 
 ### osint
