@@ -34,6 +34,92 @@ Now once we open that we are rewarded with a flag right away. Not too bad, but d
 **Flag:** `uiuctf{}`
 
 ### Real-World Application
+Put RWA here
+
+## Chaplin's PR Nightmare - 2
+### Description
+```
+Description
+```
+
+### Writeup
+Put writeup here
+
+**Flag:** `uiuctf{}`
+
+### Real-World Application
+Put RWA here
+
+## Chaplin's PR Nightmare - 3
+### Description
+```
+Description
+```
+
+### Writeup
+Put writeup here
+
+**Flag:** `uiuctf{}`
+
+### Real-World Application
+Put RWA here
+
+## Chaplin's PR Nightmare - 4
+### Description
+```
+Description
+```
+
+### Writeup
+Put writeup here
+
+**Flag:** `uiuctf{}`
+
+### Real-World Application
+Put RWA here
+
+## Chaplin's PR Nightmare - 5
+### Description
+```
+Description
+```
+
+### Writeup
+Put writeup here
+
+**Flag:** `uiuctf{}`
+
+### Real-World Application
+Put RWA here
+
+## Chaplin's PR Nightmare - 6
+### Description
+```
+Description
+```
+
+### Writeup
+Put writeup here
+
+**Flag:** `uiuctf{}`
+
+### Real-World Application
+Put RWA here
+
+## Chaplin's PR Nightmare - 7
+### Description
+```
+Description
+```
+
+### Writeup
+Put writeup here
+
+**Flag:** `uiuctf{}`
+
+### Real-World Application
+Put RWA here
+
 
 ## Chaplin's PR Nightmare - 8 (Extreme)
 ### Description
@@ -77,7 +163,7 @@ I cloned the repository, had to install Chrome (since I was on WSL and it kept b
 
 As you can see above, we were given a link to his profile picture (which I already had), a YouTube channel, a Google Maps account, and a Google Calendar. The YouTube channel ended up being a popular Charlie Chaplin channel with millions of subscribers, so I knew it wasn't right. The Google Calendar (supposedly) didn't have any public events, and even though there were no reviews for Google Maps, I went to the link anyway. 
 
-When you [open the link](https://www.google.com/maps/contrib/117833363030761934622/reviews), you can see Charlie Chaplin has 1 contribution. When you click on photos and open it up, you can see a photo was added Montrose Beach in Chicago, IL with a flag on it!
+When you [open the link](https://www.google.com/maps/contrib/117833363030761934622/reviews), you can see Charlie Chaplin has 1 contribution. When you click on photos and open it up, you can see a photo was added in Montrose Beach in Chicago, IL with a flag on it!
 
 <img src="emailFlag.png" width="800px">
 
