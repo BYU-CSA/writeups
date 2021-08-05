@@ -29,9 +29,13 @@ Let's download these songs and see what's causing cursed mode.
 
 Here's a view of the waveforms at a key point in the first song:
 
-![Audacity shows the second channel flipping](#) <!-- TODO: Add screen grab -->
+![Audacity shows the second channel flipping](./audacity_YusOnmMpuc.png)
 
-As we can see, at some point, the first two channels seem to be the same, then they abruptly switch to being opposite. Each of the switching points matches up with changing into and out of cursed mode.
+As we can see, on the left side of the image, where the first channel has peaks, the second channel has valleys. Then, on the right side of the image, where the first channel has peaks, the second channel has peaks.
+
+At numerous points throughout the song, the first two channels seem to be opposite, then they abruptly switch to being the same. Each of the switching points matches up with changing into and out of cursed mode.
+
+> As an aside, the third channel remains opposite the first channel throughout the song. There's nothing too interesting here, and we don't use it for the solve.
 
 ### Viewing the Data
 
