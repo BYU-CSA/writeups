@@ -29,7 +29,37 @@ The three mirrors that were included in the description downloaded a .tar.gz fil
 
 The cookie was stored at `/mobile/Containers/Data/Application/0CE5D539-F72A-4C22-BADF-A02CE5A50D2E/Library/Cookies/`, but was the only thing inside. I looked around a little more but didn't quite find anything particularly useful. 
 
-I went back to the base directory and found the `/root/.bash_history` file - I figured if I knew what commands root ran, I'd know where to start looking. This bash history file (included in this folder as ipad.bash_history) had two commands listed at the bottom that caught my eye:
+I went back to the base directory and found the `/root/.bash_history` file - I figured if I knew what commands root ran, I'd know where to start looking:
+
+```
+ls
+exit
+tar --version
+exit
+cd ../mobile/Containers/Data/Application/
+find ./ -iname *hammerandchisel* -type d 2>/dev/null
+cd 0CE5D539-F72A-4C22-BADF-A02CE5A50D2E/
+ls
+cd Library/
+ls
+cd Caches/
+ls
+cd com.hammerandchisel.discord/
+ls
+rm -rf *
+ls
+cd ..
+ls
+ls
+cd com.hammerandchisel.discord/
+ls
+exit
+cd ../mobile/Containers/Data/Application/AA7DB282-D12B-4FB1-8DD2-F5FEF3E3198B/Library/Application\ Support/
+rm webssh.db 
+exit
+```
+
+This bash history file had two commands listed at the bottom that caught my eye:
 
 ```
 cd ../mobile/Containers/Data/Application/AA7DB282-D12B-4FB1-8DD2-F5FEF3E3198B/Library/Application\ Support/
