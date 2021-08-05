@@ -14,3 +14,9 @@ This repository contains all of the writeups for the [UIUCTF competition in July
 **Miscellaneous:**
 * [Emote](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/emote) - 50 points
 * [Doot Doot](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/dootdoot) - 50 points
+
+**OSINT:**
+* [OSINT](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/OSINT_Charlie) - all 8 challenges
+
+**Reverse Engineering:**
+* [Tedious](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/tedious) - 50 points
