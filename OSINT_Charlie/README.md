@@ -35,10 +35,10 @@ Now once we open that we are rewarded with a flag right away. Not too bad, but d
 
 <img src="flag-twitter.JPG" width="600px">
 
-**Flag:** `uiuctf{}`
+**Flag:** `uiuctf{pe@k_c0medy!}`
 
 ### Real-World Application
-Put RWA here
+When it comes to initial OSINT Challenges and search engines, it helps to utilize a bit of google-fu like skills. Search engines such as Twitter's often include additional filters that can be used to parse through less relevant results. Next, identifying key words to utilize in search parameters and then testing a combination of such parameters will allow for the search to be more accurate and thorough. These combined with other strategies such as including the '@' character or ommitting words or requiring words lead to more optimal searching, which is a necessary tool for cybersecurity. 
 
 ## Chaplin's PR Nightmare - 2
 ### Description
