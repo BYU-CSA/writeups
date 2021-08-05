@@ -3,7 +3,6 @@ This repository contains all of the writeups for the [UIUCTF competition in July
 
 ## Challenges
 **Web:**
-
 * [wasmbaby](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/wasmbaby) - 50 points
 
 **Forensics:**
@@ -11,3 +10,7 @@ This repository contains all of the writeups for the [UIUCTF competition in July
 
 **Jail:**
 * [PHPFudge](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/phpfudge) - 50 points
+
+**Miscellaneous:**
+* [Emote](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/emote) - 50 points
+* [Doot Doot](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/dootdoot) - 50 points
