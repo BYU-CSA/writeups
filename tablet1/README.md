@@ -56,3 +56,8 @@ I went to that directory and found one file - important_data.jpg. I uploaded tha
 <img src="important_data.jpg" width="800px">
 
 **Flag:** `uiuctf{upload_task_only_takes_9_seconds_0bf79b}`
+
+## Real-World Application
+Mobile forensics is becoming a *huge* part of today's world; in fact, [Forensic Focus says](https://www.forensicfocus.com/news/the-dos-and-donts-of-mobile-forensics/) that "more than 90% of criminal cases today involve mobile devices as their main source of evidence"! This was definitely my first time dealing with mobile device forensics, and I learned a lot! It's important to understand that normal desktop-focused forensics tools and techniques aren't as effective (or just don't work) with mobile devices as they are set up completely different. When I ran all the Autopsy modules on the file system I got for this challenge, I got hardly any results, so I used intuition and grep a lot. I'm now going to look into mobile device forensics more and see if I can find open-source tools and guides to help me in future challenges like this. 
+
+Something else I learned and that is important to know is different types of SSH keys - I ended up finding an OpenSSH key, which doesn't work in normal SSH CLI settings. I had to use it with PuTTY just to sign in to the server - and ended up figuring out it was SFTP anyway!
