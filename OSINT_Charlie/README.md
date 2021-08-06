@@ -22,19 +22,23 @@ Starting off with the first challenge, we are given a few key pieces of informat
 
 Thankfully, since they've given us information, and a platform to look on, this should be pretty straight forward. Going to Twitter, we can use the search function and start plugging in the combinations we have. One thing with Twitter searches and other search engines in general, is to sort by the type of content you're looking for to begin with. For this challenege, that would be a profile, instead of a specific tweet or hashtag or trending topic. 
 
-[image1]()
+<img src="twitter.JPG" width="600px">
 
 So as the above image shows, "charlie chaplin coding" brings up a solitary account - this looks like it. Further investigation leads to a few couple things. First off, there's a YouTube link, which will lead us straight to the next challenge. After looking at a few of the tweets, we can see that he has one thread dedicated to "lists". Any Twitter user who's used it for long enough will know that Twitter users have the abillity to create their own "lists", mostly containing users they select for some reason. 
 
-[image2]()
-[image3]()
+<img src="twitter-hint1.JPG" width="600px">
+
+<img src="twitter-hint2.JPG" width="600px">
 
 Now once we open that we are rewarded with a flag right away. Not too bad, but definitely a good place to hide a flag! A common trend among these challenges is that they show off side features of platforms that require a step or two to discover. 
 
-**Flag:** `uiuctf{}`
+
+<img src="flag-twitter.JPG" width="600px">
+
+**Flag:** `uiuctf{pe@k_c0medy!}`
 
 ### Real-World Application
-Put RWA here
+When it comes to initial OSINT Challenges and search engines, it helps to utilize a bit of google-fu like skills. Search engines such as Twitter's often include additional filters that can be used to parse through less relevant results. Next, identifying key words to utilize in search parameters and then testing a combination of such parameters will allow for the search to be more accurate and thorough. These combined with other strategies such as including the '@' character or ommitting words or requiring words lead to more optimal searching, which is a necessary tool for cybersecurity. 
 
 ## Chaplin's PR Nightmare - 2
 ### Description
