@@ -6,6 +6,7 @@ This repository contains all of the writeups for the [UIUCTF competition in July
 ### forensics
 
 * [Tablet 1](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/tablet1) - 103 points
+* [Tablet 2](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/tablet2) - 197 points
 
 ### web
 
