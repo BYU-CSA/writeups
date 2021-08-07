@@ -19,6 +19,7 @@ This repository contains all of the writeups for the [UIUCTF competition in July
 ### jail
 
 * [PHPFudge](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/phpfudge) - 50 points
+* [babypython](https://github.com/BYU-CTF-group/writeups-uiuctf/tree/main/babypython) - 133 points
 
 ### misc
 
