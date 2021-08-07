@@ -1,6 +1,6 @@
-# UIUCTF 2021 - babypython Writeup
+# UIUCTF 2021 - baby_python_fixed Writeup
 - Type - Jail
-- Name - babypython
+- Name - baby_python_fixed
 - Points - 133
 
 ## Description
