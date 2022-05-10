@@ -4,3 +4,4 @@ This repository contains all of the writeups for the [SDCTF competition in May o
 ## Challenges
 ### Web
 * [Gullible by Dovesign](dovesign/) - 300 points
+* [Curl Up and Read](curl-up-and-read/) - 500 points
