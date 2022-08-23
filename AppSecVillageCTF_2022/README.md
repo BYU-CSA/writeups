@@ -17,4 +17,4 @@
 * Notes - 300
 
 **Misc**
-* Hack the hacker! - 300
+* [Hack the hacker!](hackthehacker/) - 300
